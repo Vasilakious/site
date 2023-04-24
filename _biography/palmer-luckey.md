@@ -14,4 +14,4 @@ tags:
   - VR-Headset
 ---
 
-{% include_relative bio-palmer-luckey.md %}
+{% include bio-palmer-luckey.md %}
