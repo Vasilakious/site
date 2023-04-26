@@ -7,7 +7,7 @@ categories:
   - Βιογραφία 
   - Μορφές 
 tags:
-  - Palmer Luckey
+  - Palmer-Luckey
   - Virtual-Reality 
   - Εικονική-Πραγματικότητα
   - Oculus
